@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+<img width="1280" alt="Screenshot 2024-01-10 at 2 25 34 AM" src="https://github.com/dhruv27022003/dukaanTask/assets/108231083/c65e64de-0835-4cbb-80e8-819961556923">
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
