@@ -9,6 +9,8 @@ function SideBar() {
         color: "white",
         height: '100vh',
         paddingLeft: '20px',
+        position: 'fixed',
+
         // width: "20vw",
       };
   return (

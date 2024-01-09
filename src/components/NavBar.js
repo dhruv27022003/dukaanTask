@@ -14,7 +14,12 @@ import { CiCircleQuestion } from "react-icons/ci"
 function NavBar() {
     const appStyle = {
    
-        width: "80vw",
+        width: "76vw",
+        marginLeft: '20vw',
+      };
+      const divStyle7 = {
+        marginLeft: '20vw',
+       
       };
   return (
     <div className="App" style={appStyle}>
